@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -128,13 +128,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "d0d093fa578d2ff9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +154,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3d86424eb450f559",
+  "active": "d0d093fa578d2ff9",
   "lastOpenFiles": [
     "JavaScript/API Audio и Video.md",
     "HTML/Элемент Video.md",

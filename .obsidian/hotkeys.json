@@ -8,13 +8,14 @@
     }
   ],
   "obsidian-git:init-repo": [],
-  "obsidian-git:commit": [
+  "obsidian-git:commit": [],
+  "obsidian-git:edit-gitignore": [
     {
       "modifiers": [
         "Alt",
         "Shift"
       ],
-      "key": "C"
+      "key": "E"
     }
   ]
 }
