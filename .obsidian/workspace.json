@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "60fddf7e70f5600f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e0d093b9d22420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d86424eb450f559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fcf9d51ec8c6a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a542d57930bf843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c66a956b39ed4a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25cefaa00f565145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ad31826cfe40aba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "84eeb195f155c516",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c810c848444dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6128800f3a0a6525",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b19228dc79d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed696d97c4cd4383",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "41ce29772e6bb456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3d86424eb450f559",
+  "lastOpenFiles": [
+    "JavaScript/API Audio и Video.md",
+    "HTML/Элемент Video.md",
+    "Без названия.canvas",
+    "README.md"
+  ]
+}
