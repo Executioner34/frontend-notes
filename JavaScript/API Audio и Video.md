@@ -6,7 +6,7 @@ Method | Description
 ------ | ---------
 [addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-addtexttrack.php)|Adds a new text track to the audio/video
 [canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-canplaytype.php)|Checks if the browser can play the specified audio/video type
-[load()](https://www.w3schools.com/tags/av_met_load.asp) Russian|Re-loads the audio/video element
+[load()](https://www.w3schools.com/tags/av_met_load.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-load.php)|Re-loads the audio/video element
 [play()](https://www.w3schools.com/tags/av_met_play.asp)|Starts playing the audio/video
 [pause()](https://www.w3schools.com/tags/av_met_pause.asp)|Pauses the currently playing audio/video
 
@@ -225,3 +225,7 @@ Fires when the volume has been changed
 [waiting](https://www.w3schools.com/tags/av_event_waiting.asp)
 
 Fires when the video stops because it needs to buffer the next frame
+
+## Пример
+
+[Ссылка](https://andew.ru/pages/page/html5-audio-video-js-media-demonstration.php)
