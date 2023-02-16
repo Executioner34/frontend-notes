@@ -4,8 +4,8 @@
 
 Method | Description
 ------ | ---------
-[addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp)|Adds a new text track to the audio/video
-[canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)|Checks if the browser can play the specified audio/video type
+[addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-addtexttrack.php)|Adds a new text track to the audio/video
+[canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-canplaytype.php)|Checks if the browser can play the specified audio/video type
 [load()](https://www.w3schools.com/tags/av_met_load.asp)|Re-loads the audio/video element
 [play()](https://www.w3schools.com/tags/av_met_play.asp)|Starts playing the audio/video
 [pause()](https://www.w3schools.com/tags/av_met_pause.asp)|Pauses the currently playing audio/video
