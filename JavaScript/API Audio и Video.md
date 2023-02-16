@@ -2,17 +2,10 @@
 
 ## Аудио/видео методы HTML
 
-Method
-
-Description
-
-[addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp)
-
-Adds a new text track to the audio/video
-
-[canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)
-
-Checks if the browser can play the specified audio/video type
+Method | Description
+------ | ---------
+[addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp)|Adds a new text track to the audio/video
+[canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)|Checks if the browser can play the specified audio/video type
 
 [load()](https://www.w3schools.com/tags/av_met_load.asp)
 

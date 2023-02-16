@@ -4,40 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b7771b978cf5c5",
+        "id": "578acf295786fc71",
         "type": "tabs",
         "children": [
           {
-            "id": "06aa6d20ae5edf25",
+            "id": "2e8adddd4415a52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Video.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "0f1cee7b6b1e46d2"
+            }
           }
         ]
       },
       {
-        "id": "656272d5fa76faa7",
+        "id": "7ecce48b2ba94580",
         "type": "tabs",
         "children": [
           {
-            "id": "8c470037ebc6c58f",
+            "id": "6e03d33d26636b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Video.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "0f1cee7b6b1e46d2"
+            }
           }
         ]
       }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элемент Video.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элемент Video.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Элемент Video.md"
+                "file": "JavaScript/API Audio и Video.md"
               }
             }
           },
@@ -174,11 +172,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "41ce29772e6bb456",
+  "active": "6e03d33d26636b15",
   "lastOpenFiles": [
+    "HTML/Элемент Audio.md",
+    "HTML/Элемент Video.md",
     "README.md",
     "JavaScript/API Audio и Video.md",
-    "HTML/Элемент Video.md",
     "Без названия.canvas"
   ]
 }
