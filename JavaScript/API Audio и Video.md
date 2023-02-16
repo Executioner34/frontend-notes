@@ -6,28 +6,15 @@ Method | Description
 ------ | ---------
 [addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp)|Adds a new text track to the audio/video
 [canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)|Checks if the browser can play the specified audio/video type
-
-[load()](https://www.w3schools.com/tags/av_met_load.asp)
-
-Re-loads the audio/video element
-
-[play()](https://www.w3schools.com/tags/av_met_play.asp)
-
-Starts playing the audio/video
-
-[pause()](https://www.w3schools.com/tags/av_met_pause.asp)
-
-Pauses the currently playing audio/video
+[load()](https://www.w3schools.com/tags/av_met_load.asp)|Re-loads the audio/video element
+[play()](https://www.w3schools.com/tags/av_met_play.asp)|Starts playing the audio/video
+[pause()](https://www.w3schools.com/tags/av_met_pause.asp)|Pauses the currently playing audio/video
 
 ## HTML аудио/видео свойства
 
-Property
-
-Description
-
-[audioTracks](https://www.w3schools.com/tags/av_prop_audiotracks.asp)
-
-Returns an AudioTrackList object representing available audio tracks
+Property | Description
+------------- | ---------------
+[audioTracks](https://www.w3schools.com/tags/av_prop_audiotracks.asp)|Returns an AudioTrackList object representing available audio tracks
 
 [autoplay](https://www.w3schools.com/tags/av_prop_autoplay.asp)
 
