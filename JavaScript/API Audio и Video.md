@@ -23,26 +23,11 @@ crossOrigin | Sets or returns the CORS settings of the audio/video
 [currentSrc](https://www.w3schools.com/tags/av_prop_currentsrc.asp)|Returns the URL of the current audio/video
 [currentTime](https://www.w3schools.com/tags/av_prop_currenttime.asp)|Sets or returns the current playback position in the audio/video (in seconds)
 [defaultMuted](https://www.w3schools.com/tags/av_prop_defaultmuted.asp)|Sets or returns whether the audio/video should be muted by default
-
-[defaultPlaybackRate](https://www.w3schools.com/tags/av_prop_defaultplaybackrate.asp)
-
-Sets or returns the default speed of the audio/video playback
-
-[duration](https://www.w3schools.com/tags/av_prop_duration.asp)
-
-Returns the length of the current audio/video (in seconds)
-
-[ended](https://www.w3schools.com/tags/av_prop_ended.asp)
-
-Returns whether the playback of the audio/video has ended or not
-
-[error](https://www.w3schools.com/tags/av_prop_error.asp)
-
-Returns a MediaError object representing the error state of the audio/video
-
-[loop](https://www.w3schools.com/tags/av_prop_loop.asp)
-
-Sets or returns whether the audio/video should start over again when finished
+[defaultPlaybackRate](https://www.w3schools.com/tags/av_prop_defaultplaybackrate.asp)|Sets or returns the default speed of the audio/video playback
+[duration](https://www.w3schools.com/tags/av_prop_duration.asp)|Returns the length of the current audio/video (in seconds)
+[ended](https://www.w3schools.com/tags/av_prop_ended.asp)|Returns whether the playback of the audio/video has ended or not
+[error](https://www.w3schools.com/tags/av_prop_error.asp)|Returns a MediaError object representing the error state of the audio/video
+[loop](https://www.w3schools.com/tags/av_prop_loop.asp)|Sets or returns whether the audio/video should start over again when finished
 
 [mediaGroup](https://www.w3schools.com/tags/av_prop_mediagroup.asp)
 
