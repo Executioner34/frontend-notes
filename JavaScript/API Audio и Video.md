@@ -12,7 +12,7 @@ Method | Description
 
 ---
 
-## HTML аудио/видео свойства
+## HTML аудио/видео свойства. [Русский вариант](https://html5css.ru/tags/ref_av_dom.php)
 
 Property | Description
 ------------- | ---------------
@@ -48,7 +48,7 @@ crossOrigin | Sets or returns the CORS settings of the audio/video
 
 ---
 
-## HTML-аудио/видео события
+## HTML-аудио/видео события. [Русский вариант](https://html5css.ru/tags/ref_av_dom.php)
 
 Event | Description
 -------- | ---------
