@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6e03d33d26636b15",
+  "active": "2e8adddd4415a52b",
   "lastOpenFiles": [
     "HTML/Элемент Audio.md",
     "HTML/Элемент Video.md",

@@ -19,22 +19,10 @@ Property | Description
 [buffered](https://www.w3schools.com/tags/av_prop_buffered.asp)|Returns a TimeRanges object representing the buffered parts of the audio/video
 [controller](https://www.w3schools.com/tags/av_prop_controller.asp)|Returns the MediaController object representing the current media controller of the audio/video
 [controls](https://www.w3schools.com/tags/av_prop_controls.asp)|Sets or returns whether the audio/video should display controls (like play/pause etc.)
-
-crossOrigin
-
-Sets or returns the CORS settings of the audio/video
-
-[currentSrc](https://www.w3schools.com/tags/av_prop_currentsrc.asp)
-
-Returns the URL of the current audio/video
-
-[currentTime](https://www.w3schools.com/tags/av_prop_currenttime.asp)
-
-Sets or returns the current playback position in the audio/video (in seconds)
-
-[defaultMuted](https://www.w3schools.com/tags/av_prop_defaultmuted.asp)
-
-Sets or returns whether the audio/video should be muted by default
+crossOrigin | Sets or returns the CORS settings of the audio/video
+[currentSrc](https://www.w3schools.com/tags/av_prop_currentsrc.asp)|Returns the URL of the current audio/video
+[currentTime](https://www.w3schools.com/tags/av_prop_currenttime.asp)|Sets or returns the current playback position in the audio/video (in seconds)
+[defaultMuted](https://www.w3schools.com/tags/av_prop_defaultmuted.asp)|Sets or returns whether the audio/video should be muted by default
 
 [defaultPlaybackRate](https://www.w3schools.com/tags/av_prop_defaultplaybackrate.asp)
 
