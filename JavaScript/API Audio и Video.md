@@ -7,30 +7,18 @@ Method | Description
 [addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-addtexttrack.php)|Adds a new text track to the audio/video
 [canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-canplaytype.php)|Checks if the browser can play the specified audio/video type
 [load()](https://www.w3schools.com/tags/av_met_load.asp) [Russian](https://andew.ru/pages/page/html5-audio-video-js-load.php)|Re-loads the audio/video element
-[play()](https://www.w3schools.com/tags/av_met_play.asp)|Starts playing the audio/video
-[pause()](https://www.w3schools.com/tags/av_met_pause.asp)|Pauses the currently playing audio/video
+[play()](https://www.w3schools.com/tags/av_met_play.asp) [Russian](https://html5css.ru/tags/av_met_play.php)|Starts playing the audio/video
+[pause()](https://www.w3schools.com/tags/av_met_pause.asp) [Russian](https://html5css.ru/tags/av_met_pause.php)|Pauses the currently playing audio/video
 
 ## HTML аудио/видео свойства
 
 Property | Description
 ------------- | ---------------
 [audioTracks](https://www.w3schools.com/tags/av_prop_audiotracks.asp)|Returns an AudioTrackList object representing available audio tracks
-
-[autoplay](https://www.w3schools.com/tags/av_prop_autoplay.asp)
-
-Sets or returns whether the audio/video should start playing as soon as it is loaded
-
-[buffered](https://www.w3schools.com/tags/av_prop_buffered.asp)
-
-Returns a TimeRanges object representing the buffered parts of the audio/video
-
-[controller](https://www.w3schools.com/tags/av_prop_controller.asp)
-
-Returns the MediaController object representing the current media controller of the audio/video
-
-[controls](https://www.w3schools.com/tags/av_prop_controls.asp)
-
-Sets or returns whether the audio/video should display controls (like play/pause etc.)
+[autoplay](https://www.w3schools.com/tags/av_prop_autoplay.asp)|Sets or returns whether the audio/video should start playing as soon as it is loaded
+[buffered](https://www.w3schools.com/tags/av_prop_buffered.asp)|Returns a TimeRanges object representing the buffered parts of the audio/video
+[controller](https://www.w3schools.com/tags/av_prop_controller.asp)|Returns the MediaController object representing the current media controller of the audio/video
+[controls](https://www.w3schools.com/tags/av_prop_controls.asp)|Sets or returns whether the audio/video should display controls (like play/pause etc.)
 
 crossOrigin
 
