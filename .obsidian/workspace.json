@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/API Audio и Video.md",
+                "file": "HTML/Элемент Audio.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7ecce48b2ba94580",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e03d33d26636b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/API Audio и Video.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/API Audio и Video.md",
+                "file": "HTML/Элемент Audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/API Audio и Video.md",
+                "file": "HTML/Элемент Audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/API Audio и Video.md"
+                "file": "HTML/Элемент Audio.md"
               }
             }
           },
@@ -174,10 +156,10 @@
   },
   "active": "2e8adddd4415a52b",
   "lastOpenFiles": [
-    "HTML/Элемент Audio.md",
     "HTML/Элемент Video.md",
-    "README.md",
     "JavaScript/API Audio и Video.md",
+    "HTML/Элемент Audio.md",
+    "README.md",
     "Без названия.canvas"
   ]
 }
