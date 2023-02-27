@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Audio.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элемент Audio.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элемент Audio.md",
+                "file": "JavaScript/API Audio и Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Элемент Audio.md"
+                "file": "JavaScript/API Audio и Video.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "2e8adddd4415a52b",
   "lastOpenFiles": [
+    "HTML/Элемент Audio.md",
     "HTML/Элемент Video.md",
     "JavaScript/API Audio и Video.md",
-    "HTML/Элемент Audio.md",
     "README.md",
     "Без названия.canvas"
   ]
