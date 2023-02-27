@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75c1a24ca7b5ee4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Элемент Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c92e7cd3a15616e6",
@@ -36,8 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d42052266904103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Элемент Form.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Формы.md",
+                "file": "HTML/Элемент Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Формы.md",
+                "file": "HTML/Элемент Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Формы.md"
+                "file": "HTML/Элемент Form.md"
               }
             }
           },
@@ -172,10 +198,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c660f86b9523ced3",
+  "active": "1d42052266904103",
   "lastOpenFiles": [
-    "Images/HTML/html5_form.png",
     "HTML/Формы.md",
+    "HTML/Элемент Form.md",
+    "Images/HTML/html5_form.png",
     "HTML/Элемент Audio.md",
     "JavaScript/API Audio и Video.md",
     "HTML/Элемент Video.md",
