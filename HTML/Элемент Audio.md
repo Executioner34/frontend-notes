@@ -8,22 +8,23 @@
 
 ### Пример
 
-`<audio controls>  
+```html
+<audio controls>  
   <source src="horse.ogg" type="audio/ogg">  
   <source src="horse.mp3" type="audio/mpeg">  
 Your browser does not support the audio element.  
 </audio>`
-
+```
 
 ---
 
 ## HTML-аудио — как это работает
 
-Атрибут `controls`добавляет элементы управления звуком, такие как воспроизведение, пауза и громкость.
+Атрибут `controls` добавляет элементы управления звуком, такие как воспроизведение, пауза и громкость.
 
-Элемент `<source>`позволяет указать альтернативные аудиофайлы, из которых может выбирать браузер. Браузер будет использовать первый распознанный формат.
+Элемент `<source>` позволяет указать альтернативные аудиофайлы, из которых может выбирать браузер. Браузер будет использовать первый распознанный формат.
 
-Текст между тегами `<audio>`и `</audio>`будет отображаться только в браузерах, которые не поддерживают этот `<audio>`элемент.
+Текст между тегами `<audio>` и `</audio>` будет отображаться только в браузерах, которые не поддерживают этот `<audio>` элемент.
 
 ---
 
@@ -33,22 +34,26 @@ Your browser does not support the audio element.
 
 ### Пример
 
+```html
 <audio controls autoplay>  
   <source src="horse.ogg" type="audio/ogg">  
   <source src="horse.mp3" type="audio/mpeg">  
 Your browser does not support the audio element.  
 </audio>
-
-[Попробуй сам "](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_audio_autoplay)
+```
 
 **Примечание.** Браузеры Chromium в большинстве случаев не поддерживают автозапуск. Однако приглушенный автозапуск всегда разрешен.
 
-Добавьте `muted`после `autoplay`, чтобы ваш аудиофайл начал воспроизводиться автоматически (но с отключенным звуком):
+Добавьте `muted` после `autoplay`, чтобы ваш аудиофайл начал воспроизводиться автоматически (но с отключенным звуком):
 
 ### Пример
 
+```html
 <audio controls autoplay muted>  
   <source src="horse.ogg" type="audio/ogg">  
   <source src="horse.mp3" type="audio/mpeg">  
 Your browser does not support the audio element.  
 </audio>
+```
+
+[API](obsidian://open?vault=Frontend&file=JavaScript%2FAPI%20Audio%20%D0%B8%20Video)
