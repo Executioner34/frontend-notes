@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "564f18e95b053c22",
+  "active": "40b69458322112a6",
   "lastOpenFiles": [
     "HTML/Формы.md",
     "HTML/Элемент Fieldset.md",
