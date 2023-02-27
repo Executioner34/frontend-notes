@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c92e7cd3a15616e6",
@@ -62,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элемент Form.md",
+                "file": "HTML/Формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элемент Form.md",
+                "file": "HTML/Формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Элемент Form.md"
+                "file": "HTML/Формы.md"
               }
             }
           },
@@ -198,10 +196,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1d42052266904103",
+  "active": "cfed61e97dcf6817",
   "lastOpenFiles": [
-    "HTML/Формы.md",
     "HTML/Элемент Form.md",
+    "HTML/Формы.md",
     "Images/HTML/html5_form.png",
     "HTML/Элемент Audio.md",
     "JavaScript/API Audio и Video.md",
