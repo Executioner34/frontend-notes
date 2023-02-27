@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "6a07e57548c89600",
+            "id": "40b69458322112a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Fieldset.md",
+                "file": "HTML/Элемент Input.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c92e7cd3a15616e6",
@@ -50,18 +51,19 @@
             }
           },
           {
-            "id": "73d92528d7ea20c6",
+            "id": "564f18e95b053c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Fieldset.md",
-                "mode": "preview",
+                "file": "HTML/Элемент Input.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Формы.md",
+                "file": "HTML/Элемент Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Формы.md",
+                "file": "HTML/Элемент Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Формы.md"
+                "file": "HTML/Элемент Input.md"
               }
             }
           },
@@ -196,10 +198,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cfed61e97dcf6817",
+  "active": "564f18e95b053c22",
   "lastOpenFiles": [
-    "HTML/Элемент Fieldset.md",
     "HTML/Формы.md",
+    "HTML/Элемент Fieldset.md",
     "HTML/Элемент Form.md",
     "Images/HTML/html5_form.png",
     "HTML/Элемент Audio.md",
