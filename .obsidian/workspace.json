@@ -43,19 +43,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f51b96ee752ff1e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c92e7cd3a15616e6",
@@ -153,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элемент Audio.md",
+                "file": "HTML/Элемент Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элемент Audio.md",
+                "file": "HTML/Элемент Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Элемент Audio.md"
+                "file": "HTML/Элемент Input.md"
               }
             }
           },
@@ -222,14 +212,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4f51b96ee752ff1e",
+  "active": "40b69458322112a6",
   "lastOpenFiles": [
+    "HTML/Элемент Audio.md",
     "HTML/Элемент Input.md",
     "HTML/Формы.md",
     "HTML/Элемент Fieldset.md",
     "HTML/Элемент Form.md",
     "Images/HTML/html5_form.png",
-    "HTML/Элемент Audio.md",
     "JavaScript/API Audio и Video.md",
     "HTML/Элемент Video.md",
     "README.md",
