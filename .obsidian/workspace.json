@@ -6,7 +6,7 @@
       {
         "id": "578acf295786fc71",
         "type": "tabs",
-        "dimension": 49.53604568165596,
+        "dimension": 48.785714285714285,
         "children": [
           {
             "id": "c660f86b9523ced3",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "564f18e95b053c22",
+            "id": "84a8482ee42ba40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Input.md",
+                "file": "HTML/Элемент Textarea.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "c92e7cd3a15616e6",
         "type": "tabs",
-        "dimension": 50.46395431834404,
+        "dimension": 51.214285714285715,
         "children": [
           {
             "id": "cfed61e97dcf6817",
@@ -53,12 +53,12 @@
             }
           },
           {
-            "id": "f0aa2c1ddc7cf374",
+            "id": "2b457c22a6b83901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Элемент Input.md",
+                "file": "HTML/Элемент Textarea.md",
                 "mode": "preview",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элемент Input.md",
+                "file": "HTML/Элемент Textarea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элемент Input.md",
+                "file": "HTML/Элемент Textarea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Элемент Input.md"
+                "file": "HTML/Элемент Textarea.md"
               }
             }
           },
@@ -200,11 +200,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "564f18e95b053c22",
+  "active": "2b457c22a6b83901",
   "lastOpenFiles": [
-    "HTML/Элемент Audio.md",
-    "HTML/Элемент Input.md",
     "HTML/Формы.md",
+    "HTML/Элемент Textarea.md",
+    "HTML/Элемент Input.md",
+    "HTML/Элемент Audio.md",
     "HTML/Элемент Fieldset.md",
     "HTML/Элемент Form.md",
     "Images/HTML/html5_form.png",
