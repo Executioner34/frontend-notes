@@ -200,11 +200,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f0aa2c1ddc7cf374",
+  "active": "564f18e95b053c22",
   "lastOpenFiles": [
-    "HTML/Формы.md",
-    "HTML/Элемент Input.md",
     "HTML/Элемент Audio.md",
+    "HTML/Элемент Input.md",
+    "HTML/Формы.md",
     "HTML/Элемент Fieldset.md",
     "HTML/Элемент Form.md",
     "Images/HTML/html5_form.png",
